@@ -1,7 +1,10 @@
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
-Linux commands-Shell scripting
+Linux commands-Shell 
+
+# NAME : MANOGARAN S
+# REG NO : 212223240081
 
 # AIM:
 To practice Linux Commands and Shell Scripting
@@ -1085,7 +1088,11 @@ else
 fi
 ```
 ## OUTPUT 
-
+```
+Enter the number
+545
+Number is palindrome
+```
 
 # RESULT:
 The Commands are executed successfully.
